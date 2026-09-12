@@ -149,16 +149,9 @@ Approximate round trip times in milli-seconds:
 
 ---
 
-## 🚀 Melhorias futuras
+## 📥 Arquivo da simulação
 
-- [ ] Configurar **DHCP** no roteador para atribuição automática de IPs
-- [ ] Implementar **VLANs** para segmentar tráfego cabeado e sem fio
-- [ ] Habilitar segurança **WPA2** no access point
-- [ ] Configurar **ACLs** no roteador
-- [ ] Configurar **NAT/PAT** para saída real à internet
-
----
-
+O arquivo original da simulação está disponível em [`Projeto.pkt`](./Projeto.pkt).
 ## 🧰 Ferramenta utilizada
 
 - [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer)
