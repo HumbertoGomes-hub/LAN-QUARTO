@@ -162,13 +162,3 @@ Approximate round trip times in milli-seconds:
 ## 🧰 Ferramenta utilizada
 
 - [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer)
-
-## 📁 Estrutura do repositório
-
-```
-.
-├── README.md
-└── assets/
-    ├── topologia.png
-    └── teste-ping.png
-```
